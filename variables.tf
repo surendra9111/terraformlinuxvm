@@ -9,7 +9,7 @@ variable "RGName" {
 variable "location" {
   type = string
   description = "The location of the deployment"
-  default = "South Central US"
+  default = "West Europe"
 }
 
 variable "Vnetname" {
