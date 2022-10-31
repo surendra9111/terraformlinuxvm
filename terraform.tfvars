@@ -1,6 +1,6 @@
 # Update variables
 
-location = "West Europe"
+location = "South Central US"
 
 vmname = "linuxvm-su"
 
